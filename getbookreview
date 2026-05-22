@@ -1,0 +1,13 @@
+cURL Command:
+=============
+curl -X GET "http://localhost:5000/review/9780132350884"
+
+Output:
+=======
+{
+  "success": true,
+  "message": "تم استرجاع مراجعات الكتاب (ISBN: 9780132350884) بنجاح",
+  "isbn": "9780132350884",
+  "reviewsCount": 0,
+  "reviews": {}
+}

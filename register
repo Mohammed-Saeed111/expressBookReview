@@ -1,0 +1,13 @@
+cURL Command:
+=============
+curl -X POST "http://localhost:5000/register" \
+  -H "Content-Type: application/json" \
+  -d '{"username":"newuser2026", "password":"secure123"}'
+
+Output:
+=======
+{
+  "success": true,
+  "message": "تم التسجيل بنجاح",
+  "username": "newuser2026"
+}

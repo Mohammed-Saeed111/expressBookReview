@@ -35,6 +35,30 @@
       "title": "Design Patterns",
       "author": "Gang of Four",
       "reviews": {}
+    },
+    {
+      "isbn": "9780596007974",
+      "title": "Head First Design Patterns",
+      "author": "Freeman & Freeman",
+      "reviews": {}
+    },
+    {
+      "isbn": "9780136291572",
+      "title": "Clean Architecture",
+      "author": "Robert C. Martin",
+      "reviews": {}
+    },
+    {
+      "isbn": "9781491954325",
+      "title": "You Don't Know JS",
+      "author": "Kyle Simpson",
+      "reviews": {}
+    },
+    {
+      "isbn": "9781491910734",
+      "title": "Async JavaScript",
+      "author": "Trevor Burnham",
+      "reviews": {}
     }
   ]
 }

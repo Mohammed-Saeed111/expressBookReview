@@ -4,6 +4,11 @@
       "id": 1779458531511,
       "username": "testuser",
       "password": "password123"
+    },
+    {
+      "id": 1779460573676,
+      "username": "newuser2026",
+      "password": "secure123"
     }
   ]
 }
