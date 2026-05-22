@@ -1,0 +1,40 @@
+{
+  "books": [
+    {
+      "isbn": "9780132350884",
+      "title": "Clean Code",
+      "author": "Robert C. Martin",
+      "reviews": {}
+    },
+    {
+      "isbn": "9781491952023",
+      "title": "JavaScript: The Good Parts",
+      "author": "Douglas Crockford",
+      "reviews": {}
+    },
+    {
+      "isbn": "9781593275846",
+      "title": "Eloquent JavaScript",
+      "author": "Marijn Haverbeke",
+      "reviews": {}
+    },
+    {
+      "isbn": "9781449373320",
+      "title": "Understanding ECMAScript 6",
+      "author": "Nicholas C. Zakas",
+      "reviews": {}
+    },
+    {
+      "isbn": "9780134190440",
+      "title": "The Pragmatic Programmer",
+      "author": "David Thomas",
+      "reviews": {}
+    },
+    {
+      "isbn": "9780201633610",
+      "title": "Design Patterns",
+      "author": "Gang of Four",
+      "reviews": {}
+    }
+  ]
+}
